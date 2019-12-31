@@ -15,6 +15,7 @@ let app = new Vue({
         { label: '13px', value: '13px', desc: '稍小' },
         { label: '14px', value: '14px', desc: '推荐' },
         { label: '15px', value: '15px', desc: '稍大' }
+        { label: '16px', value: '16px', desc: '大' }
       ],
       colorOption: [
         { label: '经典蓝', value: 'rgba(15, 76, 129, 1)', hex: '最新流行' },
