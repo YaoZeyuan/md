@@ -14,7 +14,7 @@ let app = new Vue({
       sizeOption: [
         { label: '13px', value: '13px', desc: '稍小' },
         { label: '14px', value: '14px', desc: '推荐' },
-        { label: '15px', value: '15px', desc: '稍大' }
+        { label: '15px', value: '15px', desc: '稍大' },
         { label: '16px', value: '16px', desc: '大' }
       ],
       colorOption: [
